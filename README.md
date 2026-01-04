@@ -45,4 +45,4 @@ Example
 - Google Ads documentation
 - Meta Ads measurement
 - **In-depth explanations (practical):**
-  - https://tillvaxtfabriken.se/seo-byra/poas-vs-roas
+  [ https://tillvaxtfabriken.se/seo-byra/poas-vs-roas](https://tillvaxtfabriken.se/kunskapsbank/google-ads/roas-vs-poas)
